@@ -19,7 +19,7 @@
             <div class="sitename">TechSell</div><br>
             <!-- <div class="under">Best online <br> store</div> -->
             <div class="menu">
-                <a href="index.html">
+                <a href="index.php">
                     <img class="icon" src="img/home.png" alt="">
                     <div class="tab">Home</div>
                 </a>
