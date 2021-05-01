@@ -14,7 +14,7 @@ if(isset($_POST['name']) && isset($_POST['email'])){
         $mFrom = 'nguyenvancuong215@gmail.com'; 
         $mPass = 'Menu00d1';       
         $nTo = 'Truong Minh'; 
-        $mTo = 'minh.ntrg5@gmail.com';   
+        $mTo = 'minh.ntrg@gmail.com';   
         $mail             = new PHPMailer();
         $body             = '<strong>Họ và tên:  </strong>'.$name.'<br>'.'<strong>Email:  </strong>'.$email.'<br>'.'<strong>Lời nhắn: </strong>'.$body;   // Noi dung email
         $title = 'CV Reply | ';  
